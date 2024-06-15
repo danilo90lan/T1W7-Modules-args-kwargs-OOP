@@ -44,4 +44,8 @@ Task:
     - An instance of a class.
     - It represents a specific entity with attributes (data) and methods (functions) defined by class.
     - Eg. A built house with many features (as functions)
-    
+    - Eg: class_eg(Dog)
+    - Eg. BankAccount
+
+- 4 Pillars of OOP
+- Encapsulation, Abstraction, Inheritance, Polymorphism
